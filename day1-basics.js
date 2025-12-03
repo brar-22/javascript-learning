@@ -2,7 +2,7 @@
 // What I learned today
 
 // 1) Printing to the console
-console.log("Apna College");
+console.log("Hello, Today is my firstday.");
 console.log("This is my first JavaScript code!");
 
 // 2) Variables in JavaScript
@@ -21,9 +21,9 @@ let userName = "Amit";   // letters allowed
 let user_name = "Alex";  // underscore allowed
 let $value = 100;        // $ allowed
 
-// let 9name = "wrong";   // ❌ starts with number → invalid
-// let user name = "no";  // ❌ spaces not allowed
-// let let = 20;          // ❌ reserved word → invalid
+// let 9name = "wrong";   // starts with number → invalid
+// let user name = "no";  // spaces not allowed
+// let let = 20;          // reserved word → invalid
 
 // 4) Data Types in JS
 let myNumber = 50;             // Number
